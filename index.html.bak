@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h1>Mi Vídeo Incrustado en HTML5</h1>
+    <h1>Ejercicio 1: Clip de vídeo incrustado en HTML 5</h1>
     <video width="1280" height="720" controls autoplay loop poster="fotograma.png">
    
    
